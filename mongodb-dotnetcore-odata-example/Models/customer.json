@@ -1,0 +1,26 @@
+﻿[
+  {
+    "_id": "ObjectId(\"620fd933275ceb69e5af0026\")",
+    "firstname": "michael",
+    "lastname": "scott",
+    "email": "michael@scott.com",
+    "active": true,
+    "gender": "male"
+  },
+  {
+    "_id": "ObjectId(\"620fd933275ceb69e5af0027\")",
+    "firstname": "dr",
+    "lastname": "dre",
+    "email": "dr@dre.com",
+    "active": true,
+    "gender": "male"
+  },
+  {
+    "_id": "ObjectId(\"620fd933275ceb69e5af0028\")",
+    "firstname": "snoop",
+    "lastname": "dogg",
+    "email": "snoop@dogg.com",
+    "active": true,
+    "gender": "male"
+  }
+]
